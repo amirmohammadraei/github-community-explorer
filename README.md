@@ -69,7 +69,3 @@ MIT License - see [LICENSE](LICENSE) file
 ## Author
 
 [@amirmohammadraei](https://github.com/amirmohammadraei)
-
----
-
-Made with ❤️ for the open source community
