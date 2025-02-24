@@ -65,7 +65,3 @@ Contributions are welcome! Please check our issues page or submit a pull request
 ## License
 
 MIT License - see [LICENSE](LICENSE) file
-
-## Author
-
-[@amirmohammadraei](https://github.com/amirmohammadraei)
